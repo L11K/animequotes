@@ -1,15 +1,6 @@
 # animequotes
 
-![npm](https://img.shields.io/npm/v/animequotes.svg) ![license](https://img.shields.io/npm/l/animequotes.svg) ![github-issues](https://img.shields.io/github/issues/FR0ST1N/animequotes.svg)
-
 Anime Quotes for Node.
-
-![nodei.co](https://nodei.co/npm/animequotes.png?downloads=true&downloadRank=true&stars=true)
-
-
-## Install
-
-`npm install --save animequotes`
 
 
 ## Usage
@@ -34,10 +25,12 @@ console.log(animeQuotes.getQuotesByCharacter("Itachi Uchiha"));
 ## Example Object
 
 ```json
-{ "quote": "Symmetry is what makes the world beautiful.",
-  "anime": "Soul Eater",
-  "id": 2799,
-  "name": "Death the Kid" }
+{
+"quote": "The ones who aren't able to acknowledge their own selves are bound to fail.",
+"anime": "Naruto",
+"id": 5350,
+"name": "Itachi Uchiha"
+}
 ```
 
 
