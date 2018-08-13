@@ -41,13 +41,6 @@ console.log(animeQuotes.getQuotesByCharacter("Itachi Uchiha"));
 ```
 
 
-## The More the Merrier
-
-* Total Quotes: 8510
-* No. of unique Characters: 2334
-* No. of unique anime: 787
-
-
 ## License
 
  - **MIT** : http://opensource.org/licenses/MIT
